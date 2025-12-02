@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Video-Emotion-and-Scene-Analyzer"
+		},
+		{
+			"path": "../backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
