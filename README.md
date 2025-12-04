@@ -241,7 +241,7 @@ http://localhost:3000
 
 1. Start Redis → Celery → FastAPI.
 2. Start Next.js.
-3. Open the web app at `localhost:3000`.
+3. Open the web app at `localhost:3000/docs`.
 4. Upload a video and click **Analyze**.
 5. Watch real-time progress.
 6. Inspect results:
